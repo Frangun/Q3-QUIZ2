@@ -1,0 +1,22 @@
+body {
+	background-image: url(h.jpg);
+	background-size: cover;
+	font-family: Georgia;
+	color: #616F3E;
+
+}
+
+.header {
+	text-align: center;
+	padding: 20px;
+	background-color: yellowgreen;
+	box-shadow: 10px 5px 5px dimgray;
+}
+
+.container {
+	text-align: center;
+	background-color: lightgoldenrodyellow;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 10px 5px 5px dimgray;
+}
